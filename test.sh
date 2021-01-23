@@ -1,2 +1,0 @@
-echo "shell file"
-echo ""
